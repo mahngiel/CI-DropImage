@@ -119,7 +119,7 @@ Developed on jQuery 1.7.2
 	}
 
 	// call initialization file
-	if (window.File && window.FileList && window.FileReader && $.cookie('csrf_merciless_cookie') ) {
+	if (window.File && window.FileList && window.FileReader && $.cookie('csrf_codeigniter_cookie') ) {
 		Init();
 	}
 
